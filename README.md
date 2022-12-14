@@ -1,4 +1,5 @@
 ## About Kuro32183
+<<<<<<< HEAD
 
 ![](https://komarev.com/ghpvc/?username=Kuro32183&label=PROFILE+VIEWS)
 
