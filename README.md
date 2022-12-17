@@ -132,5 +132,5 @@
 
 Feel free to contact me :yum:
 <br><br>
-<a href="mailto:obon32town@gmail.com"><img src="https://img.shields.io/badge/Email-Kuro32183%40chocola.dev-orange"></a>
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Site-moepoi.dev-red"></a>
+<a href="mailto:obon32town@gmail.com"><img src="https://img.shields.io/badge/Email-Kuro32183%40gmail.com-orange"></a>
+<a href="http://my-portfolio-kuro32183.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Site-my-portofolio-red"></a>
