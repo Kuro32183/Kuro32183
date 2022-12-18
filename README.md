@@ -128,7 +128,7 @@
 <br>
 
 
-:star: Here are some projects that I'm working on:
+- ### :star: Here are some projects that I'm working on:
 - [Next.js＋Matter.js](https://github.com/Kuro32183/nextjs-matter)
 - [Twitter Clone](https://github.com/Kuro32183/nextjs-twitter-clone)
 - [MurMur(SNS App)](https://github.com/Kuro32183/murmur)
@@ -137,14 +137,14 @@
 - [Next.js Markdown](https://github.com/Kuro32183/nextjs-ts-mdblog-test)
 
 <details>
-<summary>:trophy: Github Stats</summary>
+<summary>### :trophy: Github Stats</summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuro32183&theme=github_dark)
 </details>
 <br>
 
 <details>
-<summary>:girl: Top Language by Commit</summary>
+<summary>### :girl: Top Language by Commit</summary>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kuro32183&theme=github_dark)
 </details>
