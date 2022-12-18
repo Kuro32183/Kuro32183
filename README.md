@@ -3,10 +3,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuro32183&theme=github_dark)
 ![](https://komarev.com/ghpvc/?username=Kuro32183&label=PROFILE+VIEWS)
 
-### :guitar: About My Portfolio
+- ### :guitar: About My Portfolio
 ![demo](https://media.giphy.com/media/Kue4dln563xiXUJupk/giphy.gif)
-- [Demo](http://my-portfolio-kuro32183.vercel.app/)
-- [View Code](https://github.com/Kuro32183/my-portfolio)
+ - [Demo](http://my-portfolio-kuro32183.vercel.app/)
+ - [View Code](https://github.com/Kuro32183/my-portfolio)
 
 <br>
 
@@ -103,7 +103,6 @@
 <br>
 
 - ### 🎨 Design
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -128,7 +127,7 @@
 <br>
 
 
-- ### :star: Here are some projects that I'm working on:
+- ### :star: Here are some projects that I'm working on
   - [Next.js＋Matter.js](https://github.com/Kuro32183/nextjs-matter)
   - [Twitter Clone](https://github.com/Kuro32183/nextjs-twitter-clone)
   - [MurMur(SNS App)](https://github.com/Kuro32183/murmur)
