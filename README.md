@@ -129,12 +129,12 @@
 
 
 - ### :star: Here are some projects that I'm working on:
-- [Next.js＋Matter.js](https://github.com/Kuro32183/nextjs-matter)
-- [Twitter Clone](https://github.com/Kuro32183/nextjs-twitter-clone)
-- [MurMur(SNS App)](https://github.com/Kuro32183/murmur)
-- [Retro Gear(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
-- [Vintage Microphone(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
-- [Next.js Markdown](https://github.com/Kuro32183/nextjs-ts-mdblog-test)
+- - [Next.js＋Matter.js](https://github.com/Kuro32183/nextjs-matter)
+- - [Twitter Clone](https://github.com/Kuro32183/nextjs-twitter-clone)
+- - [MurMur(SNS App)](https://github.com/Kuro32183/murmur)
+- - [Retro Gear(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
+- - [Vintage Microphone(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
+- - [Next.js Markdown](https://github.com/Kuro32183/nextjs-ts-mdblog-test)
 
 <details>
 <summary>### :trophy: Github Stats</summary>
@@ -144,7 +144,7 @@
 <br>
 
 <details>
-<summary>### :girl: Top Language by Commit</summary>
+<summary><h2>:girl: Top Language by Commit</h2></summary>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kuro32183&theme=github_dark)
 </details>
