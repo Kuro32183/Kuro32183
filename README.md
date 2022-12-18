@@ -129,15 +129,15 @@
 
 
 - ### :star: Here are some projects that I'm working on:
-- - [Next.js＋Matter.js](https://github.com/Kuro32183/nextjs-matter)
-- - [Twitter Clone](https://github.com/Kuro32183/nextjs-twitter-clone)
-- - [MurMur(SNS App)](https://github.com/Kuro32183/murmur)
-- - [Retro Gear(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
-- - [Vintage Microphone(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
-- - [Next.js Markdown](https://github.com/Kuro32183/nextjs-ts-mdblog-test)
+  - [Next.js＋Matter.js](https://github.com/Kuro32183/nextjs-matter)
+  - [Twitter Clone](https://github.com/Kuro32183/nextjs-twitter-clone)
+  - [MurMur(SNS App)](https://github.com/Kuro32183/murmur)
+  - [Retro Gear(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
+  - [Vintage Microphone(Shopping Demo)](https://github.com/Kuro32183/nextjs-stripe-ecommerce)
+  - [Next.js Markdown](https://github.com/Kuro32183/nextjs-ts-mdblog-test)
 
 <details>
-<summary>### :trophy: Github Stats</summary>
+<summary><h2>:trophy: Github Stats</h2></summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuro32183&theme=github_dark)
 </details>
@@ -152,4 +152,4 @@
 
 Feel free to contact me :yum:
 <br><br>
-<a href="mailto:obon32town@gmail.com"><img src="https://img.shields.io/badge/Email-Kuro32183%40gmail.com-orange"></a>
+<a href="mailto:obon32town@gmail.com"><img src="https://img.shields.io/badge/Email-obon32town%40gmail.com-orange"></a>
