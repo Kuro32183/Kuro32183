@@ -1,4 +1,4 @@
-# Takumi Otaguro
+# Kuro Ohta
 
 **AI Automation Developer** — Hyogo, Japan
 
